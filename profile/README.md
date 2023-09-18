@@ -1,7 +1,7 @@
 # Hi there 👋
 We're FiFly, a company devoted to providing amazing products to our users (that's you!)
 
-**_Important Notice:_ On the 5th of Janurary, 2024 we're sunsetting FiFly, moving towards @lyyter. 🖥️**
+**_Important Notice:_ On the 5th of Janurary, 2024 we're sunsetting FiFly, moving towards [Lyyter](/lyyter). 🖥️**
 
 ## Our products
 
