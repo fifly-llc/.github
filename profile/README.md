@@ -5,13 +5,13 @@ We're FiFly, a company devoted to providing amazing products to our users (that'
 
 ## Our products
 
-### Unic
-
-Unic is a C# framework/library for creating and drawing on windows, interacting with the user, making games and apps, and more! Learn more [here](https://github.com/fifly-llc/unic).
-
 ### Turi
 
 Turi is an AI chatbot you can learn about and play with [here](https://pioneer.fifly.org/turi/).
+
+### Pixell
+
+Pixell is a hosting platform for creative ideas and anything else! [Check it out](https://pixell.fifly.org/).
 
 ## Documentation
 
