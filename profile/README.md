@@ -1,7 +1,7 @@
 # Hi there 👋
 We're FiFly, a company devoted to providing amazing products to our users (that's you!)
 
-**_Important Notice:_ On the 5th of Janurary, 2024 we're sunsetting FiFly, moving towards [Lyyter](https://github.com/lyyter) 🖥️. We will start moving repositories over and if you can't find one of our repos, it's probably there.**
+**_Important Notice:_ On behalf of the board, we have decided to cancel the sunsetting of FiFly and the move towards Lyyter Technologies. Read more [here](https://fifly.org/board-and-executive-meetings/canceled-lyyter).**
 
 ## Our products
 
