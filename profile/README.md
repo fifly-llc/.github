@@ -1,8 +1,6 @@
 # Hi there 👋
 We're FiFly, a company devoted to providing amazing products to our users (that's you!)
 
-**_Important Notice:_ On behalf of the board, we have decided to cancel the sunsetting of FiFly and the move towards Lyyter Technologies. Read more [here](https://fifly.org/board-and-executive-meetings/canceled-lyyter).**
-
 ## Our products
 
 ### Turi
